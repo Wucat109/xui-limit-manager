@@ -1,4 +1,4 @@
-# x-ui-node-limit-manager
+# xui-limit
 
 一个适用于 Debian 的 x-ui / 3x-ui 节点限速管理脚本。  
 用于对 **x-ui 面板中的独立端口节点** 进行单独限速，支持交互式操作、开机自动恢复、规则查看、修改、删除与修复。
